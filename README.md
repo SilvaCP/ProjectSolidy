@@ -1,2 +1,2 @@
 # ProjectSolidy
-Aulas da plataforma Solidy.
+Aulas da plataforma Solidy Treinamentos.
