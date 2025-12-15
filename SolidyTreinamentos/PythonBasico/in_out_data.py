@@ -30,6 +30,7 @@ height = float(input('Enter your height: '))
 phone = int(input('Enter your phone number: '))
 print(f'name: {name}, cpf: {cpf}, eddress: {eddress}, age: {age}, height: {height}, phone: {phone}')
 print(14 * '-')
+print('Excelente aula.')
 
 
 
